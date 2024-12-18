@@ -3,6 +3,7 @@
 	"slug" : "landing-page-javascript",
 	"status": "published",
 	"duration" : 8,
+	"template_url": "self",
 	"video-id": "Qm8wMrmdjrY",
 	"difficulty": "intermediate",
 	"preview": "https://github.com/breatheco-de/exercise-landing-page-javascript/blob/master/thumb.png?raw=true",
